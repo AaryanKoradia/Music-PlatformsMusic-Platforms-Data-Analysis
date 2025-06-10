@@ -45,4 +45,4 @@ A positive correlation is observed between R&D spending and user growth
 Helps stakeholders benchmark platforms and strategize content acquisition, feature development, and marketing spend
 
 6. Screenshots / Demos
-![Dashboard Preview]((https://github.com/AaryanKoradia/Music-PlatformsMusic-Platforms-Data-Analysis/blob/main/Music%20Platforms%20Data%20Analysis%20Project%20Dashboard%20(Img).jpg))
+![Dashboard Preview](https://github.com/AaryanKoradia/Music-PlatformsMusic-Platforms-Data-Analysis/blob/main/Music%20Platforms%20Data%20Analysis%20Project%20Dashboard%20(Img).jpg))
